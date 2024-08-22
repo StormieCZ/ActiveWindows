@@ -3,7 +3,7 @@
 # Activate Windows for Free
 
 # Steps:
-  ## Open Powershell 
+  ## Open [Windows PowerShell](https://en.wikipedia.org/wiki/PowerShell) 
   ### Run this command: 
 	```irm https://get.activated.win | iex```
   ### And choose what you want.
